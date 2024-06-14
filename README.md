@@ -29,7 +29,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
  
 API: [API scrapper Bot](https://t.me/USETGSBOT) or [Telegram.org](https://my.telegram.org/auth)
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorRobot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@levinalab/Session-Generator#main.py)
+PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorRobot) or [![Run on Repl.it](https://github.com/Apnijanta/SaveRestrictedContentBot?tab=readme-ov-file)](https://replit.com/@levinalab/Session-Generator#main.py)
 
 BOT TOKEN: @Botfather on telegram
 
